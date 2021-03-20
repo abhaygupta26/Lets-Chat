@@ -1,0 +1,12 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "html-css-class-completion.enableEmmetSupport": true,
+  "emmet.includeLanguages": {"erb": "html",
+                            "ruby": "html"
+                          },                  
+  "emmet.preferences": {
+
+  
+  }
+}
